@@ -1,1 +1,1 @@
-# simakin
+Personal blog of the Dmitriy Simakin - expert in information technologies in Russia. Very large blog with some unique ideas in contetent structure.
